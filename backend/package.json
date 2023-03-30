@@ -4,6 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "dev": "nodemon app.js",
+    "build": "npm i",
     "start": "nodemon app.js"
   },
   "author": "Ashish Raj",
