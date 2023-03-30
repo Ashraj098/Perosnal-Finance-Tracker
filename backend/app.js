@@ -7,7 +7,7 @@ const app = express();
 
 require('dotenv').config()
 
-const PORT = process.env.PORT || 9000;
+const PORT = process.env.PORT || 10000;
 
 //middlewares
 app.use(express.json())
